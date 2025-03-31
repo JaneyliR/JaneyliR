@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi there! 👋<br>I'm Janeyli, a passionate Computer Science student exploring the world of software development, AI, and cybersecurity.<br><br>🔭 Currently working on: An AI-powered smart carbon tracker and a Homework Scheduler<br>🌱 Currently learning: Advanced Python, AI/ML,  and game development<br>🤝 I'm looking to collaborating on: Exciting open-source projects related to sustainability and AI<br>💬 Ask me about: Python, AI, or basically anything to do with technology<br> 🎉 Fun fact: I love working on creative projects and have a passion for cryptography!
+Hi there! 👋<br>I'm Janeyli, a passionate Computer Science student exploring the world of software development, AI, and cybersecurity.<br><br>🔭 Currently working on: An AI-powered smart carbon tracker and a Homework Scheduler<br>🌱 Currently learning: Advanced Python, AI/ML, and game development<br>🤝 I'm looking to collaborating on: Exciting open-source projects related to sustainability and AI<br>💬 Ask me about: Python, AI, or basically anything to do with technology<br> 🎉 Fun fact: I love working on creative projects and have a passion for cryptography!
 
 
 ## 🌐 Socials:
